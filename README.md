@@ -18,13 +18,10 @@ Placing an order has never been easier. With just a few taps, users can add thei
 
 To ensure secure and convenient payments, the app integrates Razorpay, a leading online payment gateway. Users can confidently make transactions using various payment methods, including credit cards, debit cards, net banking, UPI, and digital wallets.
 
-![CoffeeShop 1](https://github.com/Rohansh12/CoffeeShop-App/assets/59413429/5bb542d8-8a87-400f-8cf6-6b304e38ee03)
-
-![CoffeeShop 2](https://github.com/Rohansh12/CoffeeShop-App/assets/59413429/bf37c159-1987-4c5c-a3a9-f1ae4cf676ca)
-
-![CoffeeShop 3](https://github.com/Rohansh12/CoffeeShop-App/assets/59413429/de326380-a5fb-4ec7-87c3-28e40c3b8205)
-
-![CoffeeShop 4](https://github.com/Rohansh12/CoffeeShop-App/assets/59413429/81af8a75-0576-4b67-b7d6-71274207ade9)
+![CoffeeShop 1](https://github.com/Rohansh12/CoffeeShop-App/assets/59413429/166d564c-c1e1-4793-aaa7-7a0738b99780)
+![CoffeeShop 3](https://github.com/Rohansh12/CoffeeShop-App/assets/59413429/915fa37a-17c6-4374-9dfd-23547a1994c7)
+![CoffeeShop 2](https://github.com/Rohansh12/CoffeeShop-App/assets/59413429/1bec1b55-ffd5-4b93-9032-7e4a2cf3f98a)
+![CoffeeShop 4](https://github.com/Rohansh12/CoffeeShop-App/assets/59413429/cdda350d-8a0c-471d-a409-666d11779224)
 
 
 
